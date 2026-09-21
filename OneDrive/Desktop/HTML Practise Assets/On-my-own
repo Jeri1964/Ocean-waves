@@ -10,15 +10,35 @@
   <section>
     <nav>
       <img alt="Letter T Uppercase Purple Color Block" id="dimg_rruuarOVL8KiOPEP5rXz6Qg_23" src="data:image/jpeg:base64,/aj...AAAAAAEABLSSyRwWQAGAAB//9K-" data-csiid="rruuaroVL8KiOPEP5rXz6Qg_3" data-atf="1">==$O
-      <ul>
+        <nav> class="navbar">
+          <h1 class="navbar__logo">FES</h1>
+          <div class="navbar__links">
+            
+        </nav><nav>
+        <li></li> href="#Treact>Treact"</a></nav>
         <li>a href="#About>About"</a></li>
         <li>a href="#Blog>Blog"</li>
         <li>a href="#Pricing>Pricing"</li>
         <li>a href="#Contact Us>Contact Us"</li>
         <li>a href="Login>Login"</li>
         <button type="button">Sign up</button>
+        </nav>
 
+        <form>
+          <label for="email">Email:</label>
+          <input class id="email"type=Your email address>
+
+        </form>
+
+        <p>OUR TRUSTED CUSTOMERS</p>
+        <p><img src="/static/media/customers-logo-strip,680ac7c... .png" alt="Our Customers></p>
+
+<h1>"Beautiful React Templates for you.></h1>
+<h2>
+  "Our templates are easy to setup, understand and customize.  Fully modular components with a variety of pages and components". 
+</h2>
         </li></div></li>
+        <div> ./assets.FES."girl at computer.https://treact.owaiskhan.me/static/media/design-illustration-2.6da6a00b20c07c4a9b65d1870679e1b8.svg"</div>
       </ul>
    
     </nav>
